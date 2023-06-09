@@ -22,6 +22,7 @@ namespace sampleDemoTwo
             c = 180 - (a + b);
 
             Console.WriteLine($"Third angle of traingle is {c}");
+            Console.WriteLine("added sample text");
         }
     }
 }
